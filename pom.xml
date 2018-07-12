@@ -5,7 +5,7 @@
     <packaging>war</packaging>
     <version>1.0</version>
     <name>siren</name>
-    <description>Catch changes on the web-page and notify</description>
+    <description>Rapid changes checking and notification tool</description>
     <url>http://ephemeralin.com</url>
     <developers>
         <developer>
