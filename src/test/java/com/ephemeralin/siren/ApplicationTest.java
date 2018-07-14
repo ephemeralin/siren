@@ -11,6 +11,6 @@ public class ApplicationTest {
      * Do something.
      */
     @Test
-    public void doSomething() {
+    public void doSomethingTest() {
     }
 }
